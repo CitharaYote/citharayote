@@ -10,15 +10,15 @@
   <br>
   🖥️ Aspiring frontend developer, specialising in <b>React/TypeScript</b> 🖥️
   <br>
-  •-|-•
+  ••|••
   <br>
   🎨 Can be found dabbling in 3D modelling, texturing, and rigging 🎨
   <br>
-  •--<|>--•
+  ••••|••••
   <br>
   🎸 Long-time self-taught guitarist (and occasional music producer) 🎸
   <br>
-  •-|-•
+  ••|••
   <br>
   🐺 Acts like a coyote on the internet sometimes 🐺
   <br>
