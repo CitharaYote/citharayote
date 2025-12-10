@@ -1,15 +1,55 @@
-## Hi there 👋
+<img align="center" width="100%" src="https://raw.githubusercontent.com/citharayote/citharayote/main/assets/animated-banner.gif"/> <!-- Licensed under CC0 (https://www.deviantart.com/franticdreamer/art/Retrowave-Synthwave-Road-Loop-CC0-888400181) -->
 
-`TODO: intro bit here`
+## A little about me...
+
+<p align="center">
+  <br>
+  🎓 Recent graduate from the University of Sheffield 🎓
+  <br>
+  •
+  <br>
+  🖥️ Aspiring frontend developer, specialising in <b>React/TypeScript</b> 🖥️
+  <br>
+  •-|-•
+  <br>
+  🎨 Can be found dabbling in 3D modelling, texturing, and rigging 🎨
+  <br>
+  •--<|>--•
+  <br>
+  🎸 Long-time self-taught guitarist (and occasional music producer) 🎸
+  <br>
+  •-|-•
+  <br>
+  🐺 Acts like a coyote on the internet sometimes 🐺
+  <br>
+  •
+  <br>
+  📼 Retrowave aesthetic enjoyer 📼
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://www.facebook.com/theo.cruddace/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+<a href="https://github.com/CitharaYote"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>  
+<a href="mailto:theocruddace@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<!-- <a href="www.google.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/theo-cruddace/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<!-- <a href="www.google.com"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white"/></a> -->
+<a href="https://open.spotify.com/user/hotnzzxnv18ovfqy939mbiqh6"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<!-- <a href="www.google.com"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>  -->
+</p>
+
 
 <hr />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/citharayote/citharayote/main/github-metrics.svg"  width="600">
 
+
 <p align="center">💜</p>
 
-## Tech Stack
+## Tech I've worked with
 
 <details>
 <summary>
