@@ -4,28 +4,71 @@
 
 <p align="center">
   <br>
-  🎓 Recent graduate from the University of Sheffield 🎓
+  🎓 Recent <b>First-Class MComp</b> graduate from the University of Sheffield 🎓
   <br>
-  •
+  
   <br>
-  🖥️ Aspiring frontend developer, specialising in <b>React/TypeScript</b> 🖥️
+  🖥️ Aspiring frontend developer, specialising in <b>React/TypeScript/Tailwind</b> 🖥️
   <br>
-  ••|••
+  
   <br>
   🎨 Can be found dabbling in 3D modelling, texturing, and rigging 🎨
   <br>
-  ••••|••••
+  
   <br>
   🎸 Long-time self-taught guitarist (and occasional music producer) 🎸
   <br>
-  ••|••
+  
   <br>
   🐺 Acts like a coyote on the internet sometimes 🐺
   <br>
-  •
+  
   <br>
   📼 Retrowave aesthetic enjoyer 📼
 </p>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center"><b><h3>Core Skills</h3></b></td>
+      <td width="50%" align="center"><b><h3>Currently Working On...</h3></b></td>
+    </tr>
+    <tr>
+      <td>
+        <b>Languages:</b>
+        <br>
+        TypeScript, JavaScript, Python, Ruby
+      </td>
+      <td>Actively applying for junior/graduate software development roles (feel free to get in touch!)</td>
+    </tr>
+    <tr>
+      <td>
+        <b>Frontend:</b>
+        <br>
+        React, Tailwind, CSS, Framer
+      </td>
+      <td>Studying for <b>AWS Cloud Practitioner</b> certification</td>
+    </tr>
+    <tr>
+      <td>
+        <b>Backend:</b>
+        <br>
+        Node.js, Rails, REST APIs, SQL/noSQL
+      </td>
+      <td>Updating/cleaning up repositories and <a href="https://github.com/CitharaYote/citharayote/blob/main/README.md">this README!</a></td>
+    </tr>
+    <tr>
+      <td>
+        <b>Tools:</b>
+        <br>
+        Git, Linux, Docker
+      </td>
+      <td>Beginning to contribute to open-source software to gain more practical experience</td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
