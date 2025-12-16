@@ -20,7 +20,7 @@
   <br>
   
   <br>
-  🐺 Acts like a coyote on the internet sometimes 🐺
+  🦊 Internet subculture connoisseur 🦊
   <br>
   
   <br>
@@ -32,7 +32,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center"><b><h3>Core Skills</h3></b></td>
+      <td width="50%" align="center"><b><h3>Main Stack</h3></b></td>
       <td width="50%" align="center"><b><h3>Currently Working On...</h3></b></td>
     </tr>
     <tr>
