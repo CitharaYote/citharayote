@@ -19,9 +19,10 @@
   🎸 Long-time self-taught guitarist (and occasional music producer) 🎸
   <br>
   
-  <br>
+  <!--<br>
   🦊 Internet subculture connoisseur 🦊
   <br>
+  !-->
   
   <br>
   📼 Retrowave aesthetic enjoyer 📼
