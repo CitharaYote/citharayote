@@ -8,7 +8,7 @@
   <br>
   
   <br>
-  🖥️ Aspiring frontend developer, specialising in <b>React/TypeScript/Tailwind</b> 🖥️
+  🖥️ Aspiring full-stack developer, specialising in <b>React/TypeScript/Express</b> 🖥️
   <br>
   
   <br>
